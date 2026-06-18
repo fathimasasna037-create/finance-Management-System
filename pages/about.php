@@ -30,7 +30,7 @@
         }
         .navbar a {
             text-decoration: none;
-            color: #333;
+            color: #333;git remote -v
             margin: 0 15px;
             font-size: 16px;
             font-weight: 600;
