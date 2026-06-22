@@ -213,7 +213,7 @@
 <!-- Navbar -->
 <div class="navbar">
     <div><a href="#">IES CAMPUS</a></div>
-    <a href="C:\xampp\htdocs\IES\index.php" class="dashboard-btn">Dashboard</a>
+    <a href="/Finance_Management_System/index.php" class="dashboard-btn">Dashboard</a>
 </div>
 
 <!-- Hero Section -->

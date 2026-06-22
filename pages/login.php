@@ -32,9 +32,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 $enrollment_result = $check_enrollment->get_result();
 
                 if ($enrollment_result->num_rows > 0) {
-                    header("Location: /FinanceManagementSystem/pages/student-dashboard.php");
+                    header("Location: /Finance_Management_System/pages/student-dashboard.php");
                 } else {
-                    header("Location: /FinanceManagementSystem/pages/courses.php");
+                    header("Location: /Finance_Management_System/pages/courses.php");
                 }
                 exit();
             } else {

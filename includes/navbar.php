@@ -1,17 +1,16 @@
 <!-- navbar.php -->
 <nav class="navbar">
   <div class="nav-left">
-    <img src="assets\images\ies_campus_logo.jpg" alt="IES Campus Logo" class="logo">
+    <img src="/Finance_Management_System\assets\images\ies_campus_logo.jpg" alt="IES Campus Logo" class="logo">
     <span class="brand-text">IES Campus</span>
   </div>
-  <div class="nav-links">
-    <a href="index.php">Home</a>
-    <a href="pages\about.php">About</a>
-    <a href="pages\contact.php">Contact</a>
-    <a href="pages\login.php">Login</a>
+   <div class="nav-links">
+    <a href="/Finance_Management_System/index.php">Home</a>
+    <a href="/Finance_Management_System/pages/about.php">About</a>
+    <a href="/Finance_Management_System/pages/contact.php">Contact</a>
+    <a href="/Finance_Management_System/pages/login.php">Login</a>
   </div>
 </nav>
-
 <style>
   .navbar {
             background-color: maroon;

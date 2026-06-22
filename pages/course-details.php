@@ -231,14 +231,14 @@ $course_fee = max(0, $total_amount - ($registration_fee + $certificate_fee));
 
  <nav class="navbar">
         <div class="nav-left">
-            <img src="/FinanceManagementSystem/assets/images/ies_campus_logo.jpg" alt="IES Campus Logo" class="logo">
+            <img src="/Finance_Management_System/assets/images/ies_campus_logo.jpg" alt="IES Campus Logo" class="logo">
             <span class="brand-text">IES Campus</span>
         </div>
         <div class="nav-links">
-             <a href="/FinanceManagementSystem/index.php">home</a>
-            <a href="/FinanceManagementSystem/pages/about.php">About</a>
-            <a href="/FinanceManagementSystem/pages/contact.php">Contact</a>
-            <a href="/FinanceManagementSystem/pages/login.php">Login</a>
+             <a href="/Finance_Management_System/index.php">home</a>
+            <a href="/Finance_Management_System/pages/about.php">About</a>
+            <a href="/Finance_Management_System/pages/contact.php">Contact</a>
+            <a href="/Finance_Management_System/pages/login.php">Login</a>
         </div>
     </nav>
 
